@@ -1,3 +1,6 @@
+# CPU page replacement algorithms
+
+This repo contains the implementation of the First in first out(FIFO), Least Recently Used (LRU) and the Optimal algorithms.
 Guide to running paging.py
 
 To run the code you use python paging.py [frame size]
